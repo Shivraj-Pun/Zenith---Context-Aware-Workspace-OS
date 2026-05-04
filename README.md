@@ -41,6 +41,3 @@ Zenith is a lightweight, context-aware desktop workspace optimizer that automati
 
 ## Usage
 Simply launch the application. Zenith works entirely in the background. You can also monitor your active context using the provided `customtkinter` dashboard.
-
-## License
-MIT
